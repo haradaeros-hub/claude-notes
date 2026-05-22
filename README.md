@@ -16,6 +16,6 @@ cd claude-notes
 - `README.md` — this file
 - `scripts/` — utility scripts
 
-## Contribuiting
+## Contributing
 
-Feel free to open issues or pull requests with sugestions.
+Feel free to open issues or pull requests with suggestions.
